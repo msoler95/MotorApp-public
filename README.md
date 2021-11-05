@@ -1,4 +1,4 @@
-# MotorApp
+#  MotorApp  <img src="https://user-images.githubusercontent.com/7905080/140510549-024209ee-9ef4-430d-8f03-97277af84f5a.png" width="30" height="30" />
 *(This repository doesn't contain code and it's only to showcase the app. The repository where the app is developed is private)*
 
 ## Description
