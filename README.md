@@ -2,7 +2,7 @@
 *(This repository doesn't contain code and it's only to showcase the app. The repository where the app is developed is private)*
 
 ## Description
-- Motorapp is an app that tells which maintenances you have to do to your vehicle and it notifies you when to them in the future. 
+- Motorapp is an app that tells which maintenances you have to do to your vehicle. It also notifies you when you have do to them.
 - Current state: At the moment only motos are avaliable. In the future new vehicles like cars or scooters will be added.
 - Technologies: Angular 10, Ionic 4, Firebase
 
